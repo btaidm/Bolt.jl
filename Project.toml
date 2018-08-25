@@ -1,6 +1,7 @@
+authors = ["Tim Bradt <tjbradt@mtu.edu>"]
 name = "Bolt"
 uuid = "bfe1fbd8-6076-11e8-3a23-999e5be12ede"
 version = "0.1.0"
-authors = ["Tim Bradt <tjbradt@mtu.edu>"]
 
 [deps]
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
